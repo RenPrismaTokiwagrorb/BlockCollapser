@@ -63,7 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BallController.cs" />
-    <Compile Include="Assets\Scripts\PaddoleController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/RenPr/Desktop/ブロック崩し/BlockCollapser/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
