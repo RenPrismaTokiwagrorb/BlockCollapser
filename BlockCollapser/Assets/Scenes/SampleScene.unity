@@ -707,6 +707,7 @@ GameObject:
   - component: {fileID: 1604937438}
   - component: {fileID: 1604937437}
   - component: {fileID: 1604937441}
+  - component: {fileID: 1604937442}
   m_Layer: 0
   m_Name: Paddole
   m_TagString: Untagged
@@ -800,6 +801,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f22226ba9207e9a4c88a371264287447, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1604937442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1604937436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ad31109fd81ea459bb01a4855a7280, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
 --- !u!1 &1621957730
 GameObject:
   m_ObjectHideFlags: 0
