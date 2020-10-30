@@ -62,9 +62,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BallController.cs" />
-    <Compile Include="Assets\Scripts\BlockController.cs" />
-    <Compile Include="Assets\Scripts\PaddoleController.cs" />
+    <Compile Include="Assets\Scripts\Game\BallController.cs" />
+    <Compile Include="Assets\Scripts\Game\BlockController.cs" />
+    <Compile Include="Assets\Scripts\Game\PaddoleController.cs" />
+    <Compile Include="Assets\Scripts\Title\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Title\TitleStandby.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/RenPr/Desktop/ブロック崩し/BlockCollapser/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
