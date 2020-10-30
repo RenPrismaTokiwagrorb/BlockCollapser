@@ -27,3 +27,7 @@
 *.cginc
 *.log
 BlockCollapser/Library/
+BlockCollapser/.vs/BlockCollapser/v15/Server/sqlite3/storage.ide-shm
+BlockCollapser/.vs/BlockCollapser/v15/Server/sqlite3/db.lock
+BlockCollapser/.vs/BlockCollapser/v15/Server/sqlite3/storage.ide
+BlockCollapser/.vs/BlockCollapser/v15/Server/sqlite3/storage.ide-wal
