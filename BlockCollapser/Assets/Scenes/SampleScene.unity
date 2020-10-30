@@ -813,7 +813,7 @@ GameObject:
   - component: {fileID: 1621957732}
   - component: {fileID: 1621957731}
   m_Layer: 0
-  m_Name: DamageWall
+  m_Name: BreakerWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
