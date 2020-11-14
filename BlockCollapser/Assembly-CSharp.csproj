@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Game\BallController.cs" />
     <Compile Include="Assets\Scripts\Game\BlockController.cs" />
+    <Compile Include="Assets\Scripts\Game\GameClearCall.cs" />
     <Compile Include="Assets\Scripts\Game\GameOverCall.cs" />
     <Compile Include="Assets\Scripts\Game\PaddoleController.cs" />
     <Compile Include="Assets\Scripts\Title\GameManager.cs" />
